@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
  ****Catherine Nyambura****
  ****Jesse Mukira ****
-
+ 
 ## Description
 
 It enables a user to input username, view profile and either view other repositories.
