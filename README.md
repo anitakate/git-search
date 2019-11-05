@@ -5,11 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 #### Author
 
  ****Catherine Nyambura****
- ****Jesse Mukira ****
  
 ## Description
 
-It enables a user to input username, view profile and either view other repositories.
+It enables a user to input a username, view profile and either view other repositories they want to.
 
 ## Development server
 
