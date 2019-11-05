@@ -39,8 +39,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Support and contact details
-contact me at catherinenyambura000@gmail.com or call me via 0758827667 .
+Contact me at catherinenyambura000@gmail.com or call me via 0758827667 .
 
 ### License
 The project is under [MIT license](https://github.com/anitakate/Git-Search/blob/master/LICENSE)
-Copyright &copy; 2019.All rigths reserved
+Copyright &copy; 2019.All rigths reserved .
