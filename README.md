@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-next.18.
 
+#### Author
+
+ ****Catherine Nyambura****
+
 ## Description
 
 It enables a user to input username, view profile and either view other repositories.
@@ -31,4 +35,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Support and contact details
-contact me @ catherinenyambura000@gmail.com or call me via 0758827667
+contact me at catherinenyambura000@gmail.com or call me via 0758827667 .
