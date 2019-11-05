@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 #### Author
 
- ****Catherine Nyambura****
+ ****Catherine Nyambura Ndung'u****
  
 ## Description
 
@@ -20,7 +20,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Project live site
 
-  This is the link to the live site.[ Click for the demo](https://anitakate.github.io/git-search/)
+  This is the link to the live site.[ Click for the demo](https://anitakate.github.io/git-search/) .
 
 ## Build
 
